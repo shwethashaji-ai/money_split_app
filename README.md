@@ -1,35 +1,51 @@
-💰 Money Split & Expense Tracker (₹)
+# 💰 Money Split & Expense Tracker (₹)
 
-Overview
+A simple and efficient web-based tool for tracking shared expenses and splitting bills among friends, family, or roommates.
 
-Money Split & Expense Tracker is a simple web-based application that helps users split expenses and track balances among friends, family, or colleagues. It allows users to input expenses, specify who paid, and distribute the amount evenly among participants. The application calculates balances, showing who owes whom.
+## 🛠 Features
 
-Features
+- 📊 Add expenses and specify who paid and who is included in the split  
+- 🔄 Automatically calculates balances for each participant  
+- 💰 Displays who owes how much and who should be reimbursed  
+- 🎨 Clean and user-friendly interface  
+- 🚀 No database or installation required—just open in a browser  
 
-✅ Add and track expenses
-✅ Specify who paid for the expense
-✅ Split expenses among multiple participants
-✅ View a summary of all expenses
-✅ Track balances to know who owes or is owed money
+## 🚀 How to Use
 
-Technologies Used:
+1. **Enter Expense Details**  
+   - Name the expense (e.g., "Dinner").  
+   - Enter the total amount spent.  
+   - Specify who paid.  
+   - List the participants who are splitting the cost.  
 
-HTML
-CSS
-JavaScript
+2. **Submit the Expense**  
+   - The system automatically calculates the split amount.  
+   - Displays the updated balance sheet.  
 
-How It Works:
+3. **View Balances**  
+   - Shows who owes how much and who should be reimbursed.  
 
-Enter Expense Details
-Provide the name of the expense (e.g., "Dinner").
-Enter the total amount spent.
-Specify who paid for the expense.
-List all participants who are sharing the cost.
-Automatic Balance Calculation
-The app calculates how much each participant owes.
-The payer is credited for the amount paid.
-A balance summary is displayed.
-View Expense List & Balances
-All added expenses appear in a list.
-The balance section shows how much each person owes or is owed.
+## 📂 Project Structure
+
+
+## 📌 Requirements
+
+- A modern web browser (Chrome, Firefox, Edge, Safari)  
+- No additional dependencies—just open `money.html` in a browser  
+
+## 🖥 Demo
+
+To try the app, open `money.html` in your browser.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to suggest improvements or submit pull requests.
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Enjoy hassle-free expense tracking! 🎉
 
