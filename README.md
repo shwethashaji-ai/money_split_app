@@ -13,11 +13,13 @@ Features
 ✅ Track balances to know who owes or is owed money
 
 Technologies Used:
+
 HTML
 CSS
 JavaScript
 
 How It Works:
+
 Enter Expense Details
 Provide the name of the expense (e.g., "Dinner").
 Enter the total amount spent.
